@@ -10,7 +10,7 @@ Basic functionality seems to work. Though testing was about the weaker end of 3 
 - Sanjot Boyal
 - Gerald Aryeetey
 - Gauri Goyal
-- Brandon []
+- Brandon Tieu
 
 # Process, Tools and Technologies
 This project was built in Intel XDK (HTML, CSS, and JavaScript) as part of ICS4U0. It was built over the span of approximately 5 months and had a PHP & MySQL backend.
